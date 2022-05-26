@@ -1,9 +1,9 @@
-# demoserver
+# demoserver2
 # mybinder.org compatible repo for WebMO Demo Server
 
 Access this binder directly at the following URL: 
 
-http://mybinder.org/v2/gh/webmodemo/demoserver/master
+http://mybinder.org/v2/gh/webmodemo/demoserver2/main
 
 # Notes
 The "requirements.txt" file lists all Python libraries that your notebooks
