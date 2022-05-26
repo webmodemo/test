@@ -3,7 +3,7 @@
 
 Access this binder directly at the following URL: 
 
-http://mybinder.org/v2/gh/webmodemo/demoserver2/main
+http://mybinder.org/v2/gh/webmodemo/demoserver2/master
 
 # Notes
 The "requirements.txt" file lists all Python libraries that your notebooks
