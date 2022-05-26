@@ -11,5 +11,5 @@ need, including the following for the default WebMO python scripts:
 numpy==1.16.*
 matplotlib==3.*
 
-The "runtime.txt" file sp[ecifies the version of python that will be used:
-python-3.6
+The "runtime.txt" file specifies the version of python that will be used:
+python-3.8
